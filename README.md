@@ -8,6 +8,6 @@ Blender - 2.81a or newer
 Audacity - 2.0.6 or newer  
 
 # Tutorials
-Custom Things Setup Tutorial - youtube.com/watch?v=rn3n398FDhw  
-Custom Models Tutorial - youtube.com/watch?v=rbin5N45O7o  
-Custom Taunts Tutorial - youtube.com/watch?v=_lsMXESz5kk  
+Custom Things Setup Tutorial - https://youtube.com/watch?v=rn3n398FDhw  
+Custom Models Tutorial - https://youtube.com/watch?v=rbin5N45O7o  
+Custom Taunts Tutorial - https://youtube.com/watch?v=_lsMXESz5kk  
